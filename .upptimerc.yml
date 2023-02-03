@@ -12,7 +12,7 @@ sites:
     url: https://www.colombialider.org
 
 status-website:
-  baseUrl: /uptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/$OWNER/$REPO/master/assets/logos.png
   name: Upptime
   theme: dark
