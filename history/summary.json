@@ -4,19 +4,19 @@
     "url": "https://housemedia.com.co",
     "icon": "https://icons.duckduckgo.com/ip3/housemedia.com.co.ico",
     "slug": "housemedia",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 3014,
     "timeDay": 2395,
     "timeWeek": 3014,
     "timeMonth": 3014,
     "timeYear": 3014,
     "dailyMinutesDown": {
-      "2023-02-06": 13
+      "2023-02-06": 1
     }
   },
   {
